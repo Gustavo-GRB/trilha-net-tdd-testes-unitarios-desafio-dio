@@ -1,0 +1,14 @@
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
+C:\Cursos\CursosDio\trilha-net-tdd-testes-unitarios-desafio-dio\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.AssemblyReference.cache
